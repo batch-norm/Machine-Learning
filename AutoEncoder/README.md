@@ -2,6 +2,7 @@
 
 **自编码大家应该都知道，这里不过多介绍了，下面是模型在训练集和验证集上的训练过程：**
 
+<<<<<<< HEAD
 <img src="autoencoder_tensorboard.png" width="420" alt="none" align="center">
 
 # Denoising AutoEncoder - 降噪自编码
@@ -14,3 +15,6 @@
 
 
 
+=======
+<img src="autoencoder_tensorboard.png" width="720" alt="none" align="center">
+>>>>>>> adc396bfd9a63f867e2dd422ca4ed507dfdb9ddb
