@@ -8,6 +8,8 @@
 
 + [xDeepFM:Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://github.com/batch-norm/xDeepFM)
 
++ [Deep Neural Network for Youtube Recommendation](https://github.com/batch-norm/Machine-Learning/tree/master/youtube)
+
 ## 模型复现
 
 + [nfm模型](https://github.com/batch-norm/Machine-Learning/tree/master/NFM)
