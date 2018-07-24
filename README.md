@@ -10,7 +10,7 @@
 
 + [Deep Neural Network for Youtube Recommendation](https://github.com/batch-norm/Machine-Learning/tree/master/youtube)
 
-+ [Hash Embeddings for Efficient Word Representations]((https://github.com/batch-norm/Machine-Learning/tree/master/hashEmbedding)
++ [Hash Embeddings for Efficient Word Representations](https://github.com/batch-norm/Machine-Learning/tree/master/hashEmbedding)
 
 ## 模型复现
 
