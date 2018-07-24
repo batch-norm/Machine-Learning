@@ -10,6 +10,7 @@
 
 ## 模型架构
 
+<<<<<<< HEAD
 **模型结构 = FM线性部分 + DNN(BI as input)**
 
 <img src='img/2.png' width=500>
@@ -62,4 +63,6 @@
 
 
 
+=======
+>>>>>>> f89207578d9545fbacda3b10324a1ed49e84ba98
 
