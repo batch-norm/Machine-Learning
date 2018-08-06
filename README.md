@@ -2,7 +2,10 @@
 
 ## 轮子
 + [自编码 AutoEncoder](https://github.com/batch-norm/Machine-Learning/tree/master/AutoEncoder)
+
 + [强化学习 Q-learning demo](https://github.com/batch-norm/Machine-Learning/tree/master/Q-learning)
+
++ [DDPG](https://github.com/batch-norm/Machine-Learning/tree/master/DDPG)
 
 ## 论文整理
 + [Reinforcement Learning:RL to rank in E-commerce Search Engine](https://github.com/batch-norm/Machine-Learning/tree/master/RLforTaobao)
